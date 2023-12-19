@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yacine Zidelmal</h1>
-<h3 align="center">I’m a Software Engineer in love with DevOps and Automation, I'm a fast learner and a hard worker and able to make things work efficiently in a record time.</h3>
+<h3 align="center">I’m a DevOps Engineer with extensive experience in software design, development, and applications operations. I had hands-on experience with the most important DevOps tools and technologies in both on-premise and cloud environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaacine&label=Profile%20views&color=0e75b6&style=flat" alt="yaacine" /> </p>
 
